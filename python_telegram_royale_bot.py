@@ -9,7 +9,7 @@ from telegram.ext import (
     MessageHandler,
     filters,
 )
-token_tg = "TOKEN"
+token_tg = "TOKEN" #telegram bot token
 player_tag="#RUQ0JU2P"
 key = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJjNzQzM2M2Y2NhNSJ9.eyJpc3MiOiJzdXBlcmNlbGwiLCJhdWQiOiJzdXBlcmNlbGw6Z2FtZWFwaSIsImp0aSI6IjA5ZWI1Y2VmLWM3YzgtNDkzZi04OWMwLTY5N2U3ODg4M2EzNCIsImlhdCI6MTY3NDQ4MjI1Miwic3ViIjoiZGV2ZWxvcGVyL2ZmOTFjNGY5LWJjOTgtMjgwNS1jNmIxLTdkY2RhZDg0MGI3YSIsInNjb3BlcyI6WyJyb3lhbGUiXSwibGltaXRzIjpbeyJ0aWVyIjoiZGV2ZWxvcGVyL3NpbHZlciIsInR5cGUiOiJ0aHJvdHRsaW5nIn0seyJjaWRycyI6WyI5NS44My4xMzIuODciXSwidHlwZSI6ImNsaWVudCJ9XX0.igL4bOo6mg7vf6HVj-RZGl8r1u4Y3sQw2nyyHIE8_4nMv79dDCxckVjWhgllTzz6q2ug--Qd4fmJT391cPg2eA"
 base_url = "https://api.clashroyale.com/v1"
